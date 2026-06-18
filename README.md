@@ -79,7 +79,3 @@
 | Technical Leadership | Planning, coordination, documentation, and project delivery |
 
 </div>
-
-
-
-how can i make it cooler na may wow factor na ang angas neto ah vibe when someone visit my github profile
