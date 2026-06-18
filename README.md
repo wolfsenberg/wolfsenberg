@@ -75,3 +75,7 @@
 | Technical Leadership | Planning, coordination, documentation, and project delivery |
 
 </div>
+
+<p align="center">
+  <code>Building across web, cloud, IoT, and creative systems ^____^</code>
+</p>
