@@ -12,10 +12,6 @@
   <code>"Being a generalist isn't a weakness—it's the reason I lead."</code>
 </p>
 
-<p align="center">
-  <code>building across web, cloud, IoT, and creative systems ^___^</code>
-</p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/geineldungao/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1f6feb&logoColor=white&labelColor=0d1117&style=for-the-badge" height="28" alt="linkedin" />
