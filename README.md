@@ -1,160 +1,105 @@
-<h1 align="center">Ayo</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2a2a2a&height=130&section=header&text=GEINEL%20DUNGAO&fontColor=f6d365&fontSize=42&fontAlignY=48&desc=FULL-STACK%20WEB%20%7C%20IOT%20%7C%20CLOUD%20SOLUTIONS&descColor=e8e8e8&descSize=14&descAlignY=72" alt="header" />
+</div>
 
-<h2 align="center">I'm Geinel Niño Dungao</h2>
+<h1 align="center">Hey, I'm Geinel</h1>
 
 <p align="center">
-  <strong>IT Student</strong> |
-  <strong>Full-Stack Web & IoT Developer</strong> |
-  <strong>Technical Project Manager @ AWSSBGPUP</strong>
+  IT Student | Full-Stack Web & IoT Developer | Technical Project Manager @ AWSSBGPUP
 </p>
 
 <p align="center">
-  <strong>Creatives @ AWSUG e:Novators PH</strong> |
-  <strong>Compliance Analyst, Cloud Solutions @ GDGPUP</strong>
+  Creatives @ AWSUG e:Novators PH | Compliance Analyst, Cloud Solutions @ GDGPUP
+</p>
+
+<p align="center">
+  <code>"Being a generalist isn't a weakness—it's the reason I lead."</code>
 </p>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/geineldungao/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2d4f8f&logoColor=white&labelColor=111111&style=for-the-badge" height="28" alt="linkedin" />
   </a>
-  <a href="https://github.com/wolfsenberg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github logo" />
+  <a href="https://wolfsenberg-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=c58f2c&logoColor=white&labelColor=111111&style=for-the-badge" height="28" alt="portfolio" />
   </a>
 </div>
 
 ###
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Core Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" height="55" alt="arduino logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="aws logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="55" alt="google cloud logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="55" alt="vercel logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php" height="55" alt="php logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=rust" height="55" alt="rust logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="55" alt="java logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,rust,java,html,react,nextjs,laravel,nodejs" height="52" alt="core stack" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" height="55" alt="laravel logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="nextjs logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="55" alt="fastapi logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=flask" height="55" alt="flask logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vue" height="55" alt="vue logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vite" height="55" alt="vite logo" />
+  <img src="https://skillicons.dev/icons?i=express,fastapi,flask,tailwind,vue,vite,mysql,mongodb,firebase,supabase" height="52" alt="frameworks and databases" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="55" alt="firebase logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="55" alt="supabase logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=npm" height="55" alt="npm logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=pnpm" height="55" alt="pnpm logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="55" alt="gitlab logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker,git,github,gitlab,npm,pnpm,arduino" height="52" alt="cloud and tools" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ps" height="55" alt="photoshop logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=pr" height="55" alt="premiere pro logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ae" height="55" alt="after effects logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="tensorflow logo" />
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae,tensorflow" height="52" alt="creative and ai tools" />
 </div>
 
 ###
 
-<h3 align="center">Tools & Libraries</h3>
+<h3 align="center">Tools and Libraries</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Arduino%20C++-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="28" alt="arduino c++" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28" alt="jwt" />
-  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black" height="28" alt="filament" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" alt="numpy" />
-  <img src="https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" height="28" alt="mosquitto" />
+  <img src="https://img.shields.io/badge/Arduino%20C++-2b7a78?style=for-the-badge&logo=arduino&logoColor=white&labelColor=111111" height="28" alt="arduino c++" />
+  <img src="https://img.shields.io/badge/JWT-444444?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=111111" height="28" alt="jwt" />
+  <img src="https://img.shields.io/badge/Filament-c58f2c?style=for-the-badge&logo=laravel&logoColor=white&labelColor=111111" height="28" alt="filament" />
+  <img src="https://img.shields.io/badge/Pandas-2d4f8f?style=for-the-badge&logo=pandas&logoColor=white&labelColor=111111" height="28" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-396c8c?style=for-the-badge&logo=numpy&logoColor=white&labelColor=111111" height="28" alt="numpy" />
+  <img src="https://img.shields.io/badge/Mosquitto-3c5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white&labelColor=111111" height="28" alt="mosquitto" />
 </div>
 
 ###
 
-<h3 align="center">GitHub Analytics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wolfsenberg&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="160" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfsenberg&layout=compact&langs_count=8&theme=dracula&hide_border=false&border_radius=5" height="160" alt="top languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wolfsenberg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph" />
-</div>
-
-###
-
-<h3 align="center">What I Build</h3>
+<h3 align="center">What I Work On</h3>
 
 <div align="center">
 
-| Focus | What I Do |
+| Area | Work |
 |---|---|
-| Full-Stack Web | Scalable apps using React, Next.js, Laravel, Node.js, FastAPI, Flask, and modern databases |
-| IoT Systems | Arduino-based builds, MQTT workflows, cloud-connected devices, and automation tools |
-| Cloud & Compliance | AWS, Google Cloud, deployment workflows, cloud documentation, and solutions compliance |
-| Creative Tech | UI assets, video editing, motion graphics, technical branding, and community creatives |
-| Project Leadership | Technical planning, execution, collaboration, and shipping projects with real users in mind |
+| Full-Stack Web | React, Next.js, Laravel, Node.js, FastAPI, Flask, and modern databases |
+| IoT Systems | Arduino-based builds, MQTT workflows, cloud-connected devices, and automation |
+| Cloud Solutions | AWS, Google Cloud, deployments, documentation, and compliance workflows |
+| Creative Tech | UI assets, video editing, motion graphics, and technical community creatives |
+| Project Management | Planning, coordination, documentation, and delivery of technical projects |
 
 </div>
 
 ###
+
+<h3 align="center">GitHub Overview</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wolfsenberg&show_icons=true&theme=gruvbox&hide_border=false&border_radius=4&title_color=f6d365&icon_color=c58f2c&text_color=e8e8e8&bg_color=111111" height="165" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfsenberg&layout=compact&langs_count=8&theme=gruvbox&hide_border=false&border_radius=4&title_color=f6d365&text_color=e8e8e8&bg_color=111111" height="165" alt="top languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=wolfsenberg&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=4&background=111111&ring=f6d365&fire=c58f2c&currStreakLabel=f6d365&sideLabels=e8e8e8&dates=9c9c9c" height="165" alt="streak graph" />
+</div>
+
+###
+
+<h3 align="center">Contribution Graph</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolfsenberg/wolfsenberg/output/pacman-contribution-graph-dark.svg">
@@ -165,5 +110,5 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:9146FF,100:00D8FF&height=120&section=footer" alt="footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2a2a2a&height=80&section=footer&text=BUILDING%20WITH%20CODE%2C%20CLOUD%2C%20AND%20CREATIVE%20SYSTEMS&fontColor=f6d365&fontSize=18&fontAlignY=55" alt="footer" />
 </div>
