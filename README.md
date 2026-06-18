@@ -1,4 +1,4 @@
-<h1 align="center">Hey What's Up?</h1>
+<h1 align="center">Ayo</h1>
 
 <h2 align="center">I'm Geinel Niño Dungao</h2>
 
