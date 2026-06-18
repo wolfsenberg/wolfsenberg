@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  building across web, cloud, IoT, and creative systems ^^
+  <code>building across web, cloud, IoT, and creative systems ^___^</code>
 </p>
 
 <div align="center">
