@@ -82,7 +82,7 @@
 
 ###
 
-<h3 align="center">spider-sense.sh</h3>
+<h3 align="center">wolfsenberg.sh</h3>
 
 <table align="center">
   <tr>
@@ -103,3 +103,19 @@ current mode:
   building systems
   connecting ideas
   leading execution
+  </td>
+  <td>
+
+$ signal --status
+
+web systems      █████████░
+cloud work       ████████░░
+iot builds       ███████░░░
+creative tech    ████████░░
+leadership       █████████░
+
+status:
+  online
+
+principle:
+  with great range comes great responsibility
