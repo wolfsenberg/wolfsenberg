@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <code>"Being a generalist isn't a weakness—it's the reason I lead."</code>
+  <code><i>"Being a generalist isn't a weakness—it's the reason I lead."</i></code>
 </p>
 
 <div align="center">
@@ -77,5 +77,5 @@
 </div>
 
 <p align="center">
-  <code>Building across web, cloud, IoT, and creative systems ^____^</code>
+  <code><strong>Building across web, cloud, IoT, and creative systems ^____^</strong></code>
 </p>
