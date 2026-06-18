@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="center">Core Stack</h3>
+<h3 align="center">Stacks Used</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,php,rust,java,html,react,nextjs,laravel,nodejs" height="52" alt="core stack" />
