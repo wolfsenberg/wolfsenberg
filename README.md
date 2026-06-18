@@ -29,27 +29,26 @@
 
 <h3 align="center">wolfsenberg.log</h3>
 
-<div align="center">
-
-```txt
+<pre align="center">
 SYSTEM ONLINE
 
-> profile
-  name      : Geinel Dungao
+&gt; profile
+  name      : Geinel Niño Dungao
   handle    : wolfsenberg
   track     : full-stack web, IoT, cloud solutions, creative systems
 
-> current build
+&gt; current build
   shipping practical systems
   connecting hardware, software, and cloud
   leading technical projects with range and clarity
 
-> signal
+&gt; signal
   generalist by design
   builder by default
   leader through execution
-</div>
+</pre>
 
+###
 
 <h3 align="center">Stacks Used</h3>
 
@@ -57,21 +56,25 @@ SYSTEM ONLINE
   <img src="https://skillicons.dev/icons?i=ts,js,php,rust,java,html,react,nextjs,laravel,nodejs" height="52" alt="languages and core stack" />
 </div>
 
+<br />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=express,fastapi,flask,tailwind,vue,vite,mysql,mongodb,firebase,supabase" height="52" alt="frameworks and databases" />
 </div>
 
+<br />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker,git,github,gitlab,npm,pnpm,arduino" height="52" alt="cloud and tools" />
 </div>
 
+<br />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,tensorflow" height="52" alt="creative and ai tools" />
 </div>
 
+###
 
 <h3 align="center">Tools and Libraries</h3>
 
@@ -84,14 +87,18 @@ SYSTEM ONLINE
   <img src="https://img.shields.io/badge/Mosquitto-d32f2f?style=for-the-badge&logo=eclipsemosquitto&logoColor=white&labelColor=0d1117" height="28" alt="mosquitto" />
 </div>
 
+###
 
 <h3 align="center">What I Work On</h3>
 
 <div align="center">
 
-Focus	Scope
-Web Systems	Full-stack platforms, dashboards, APIs, and database-driven apps
-IoT Development	Arduino builds, MQTT workflows, automation, and connected devices
-Cloud Solutions	AWS, Google Cloud, deployment workflows, documentation, and compliance
-Creative Tech	UI assets, motion graphics, video editing, and community visuals
-Technical Leadership	Planning, coordination, documentation, and delivery
+| Focus | Scope |
+|---|---|
+| Web Systems | Full-stack platforms, dashboards, APIs, and database-driven apps |
+| IoT Development | Arduino builds, MQTT workflows, automation, and connected devices |
+| Cloud Solutions | AWS, Google Cloud, deployment workflows, documentation, and compliance |
+| Creative Tech | UI assets, motion graphics, video editing, and community visuals |
+| Technical Leadership | Planning, coordination, documentation, and delivery |
+
+</div>
