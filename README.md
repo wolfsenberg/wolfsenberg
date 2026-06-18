@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2a2a2a&height=130&section=header&text=GEINEL%20DUNGAO&fontColor=f6d365&fontSize=42&fontAlignY=48&desc=FULL-STACK%20WEB%20%7C%20IOT%20%7C%20CLOUD%20SOLUTIONS&descColor=e8e8e8&descSize=14&descAlignY=72" alt="header" />
-</div>
-
 <h1 align="center">Hey, I'm Geinel</h1>
 
 <p align="center">
-  IT Student | Full-Stack Web & IoT Developer | Technical Project Manager @ AWSSBGPUP
+  <strong>IT Student</strong> | <strong>Full-Stack Web & IoT Developer</strong> | <strong>Technical Project Manager @ AWSSBGPUP</strong>
 </p>
 
 <p align="center">
@@ -16,14 +12,12 @@
   <code>"Being a generalist isn't a weakness—it's the reason I lead."</code>
 </p>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/geineldungao/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2d4f8f&logoColor=white&labelColor=111111&style=for-the-badge" height="28" alt="linkedin" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1f6feb&logoColor=white&labelColor=0d1117&style=for-the-badge" height="28" alt="linkedin" />
   </a>
   <a href="https://wolfsenberg-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=c58f2c&logoColor=white&labelColor=111111&style=for-the-badge" height="28" alt="portfolio" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=0ea5e9&logoColor=white&labelColor=0d1117&style=for-the-badge" height="28" alt="portfolio" />
   </a>
 </div>
 
@@ -58,12 +52,12 @@
 <h3 align="center">Tools and Libraries</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Arduino%20C++-2b7a78?style=for-the-badge&logo=arduino&logoColor=white&labelColor=111111" height="28" alt="arduino c++" />
-  <img src="https://img.shields.io/badge/JWT-444444?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=111111" height="28" alt="jwt" />
-  <img src="https://img.shields.io/badge/Filament-c58f2c?style=for-the-badge&logo=laravel&logoColor=white&labelColor=111111" height="28" alt="filament" />
-  <img src="https://img.shields.io/badge/Pandas-2d4f8f?style=for-the-badge&logo=pandas&logoColor=white&labelColor=111111" height="28" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-396c8c?style=for-the-badge&logo=numpy&logoColor=white&labelColor=111111" height="28" alt="numpy" />
-  <img src="https://img.shields.io/badge/Mosquitto-3c5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white&labelColor=111111" height="28" alt="mosquitto" />
+  <img src="https://img.shields.io/badge/Arduino%20C++-2563eb?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0d1117" height="28" alt="arduino c++" />
+  <img src="https://img.shields.io/badge/JWT-1d4ed8?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0d1117" height="28" alt="jwt" />
+  <img src="https://img.shields.io/badge/Filament-0284c7?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0d1117" height="28" alt="filament" />
+  <img src="https://img.shields.io/badge/Pandas-1e40af?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" height="28" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0369a1?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" height="28" alt="numpy" />
+  <img src="https://img.shields.io/badge/Mosquitto-075985?style=for-the-badge&logo=eclipsemosquitto&logoColor=white&labelColor=0d1117" height="28" alt="mosquitto" />
 </div>
 
 ###
@@ -87,14 +81,14 @@
 <h3 align="center">GitHub Overview</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wolfsenberg&show_icons=true&theme=gruvbox&hide_border=false&border_radius=4&title_color=f6d365&icon_color=c58f2c&text_color=e8e8e8&bg_color=111111" height="165" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfsenberg&layout=compact&langs_count=8&theme=gruvbox&hide_border=false&border_radius=4&title_color=f6d365&text_color=e8e8e8&bg_color=111111" height="165" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wolfsenberg&show_icons=true&hide_border=false&border_radius=4&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&border_color=1f6feb" height="165" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfsenberg&layout=compact&langs_count=8&hide_border=false&border_radius=4&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=1f6feb" height="165" alt="top languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wolfsenberg&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=4&background=111111&ring=f6d365&fire=c58f2c&currStreakLabel=f6d365&sideLabels=e8e8e8&dates=9c9c9c" height="165" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=wolfsenberg&locale=en&mode=daily&hide_border=false&border_radius=4&background=0D1117&border=1F6FEB&stroke=1F6FEB&ring=58A6FF&fire=0EA5E9&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165" alt="streak graph" />
 </div>
 
 ###
@@ -106,9 +100,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wolfsenberg/wolfsenberg/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wolfsenberg/wolfsenberg/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2a2a2a&height=80&section=footer&text=BUILDING%20WITH%20CODE%2C%20CLOUD%2C%20AND%20CREATIVE%20SYSTEMS&fontColor=f6d365&fontSize=18&fontAlignY=55" alt="footer" />
-</div>
