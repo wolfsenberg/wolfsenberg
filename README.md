@@ -29,25 +29,17 @@
 
 <h3 align="center">wolfsenberg.log</h3>
 
-<pre align="center">
-SYSTEM ONLINE
+<h3 align="center">Profile Snapshot</h3>
 
-&gt; profile
-  name      : Geinel Niño Dungao
-  handle    : wolfsenberg
-  track     : full-stack web, IoT, cloud solutions, creative systems
+<div align="center">
 
-&gt; current build
-  shipping practical systems
-  connecting hardware, software, and cloud
-  leading technical projects with range and clarity
+| Identity | Direction |
+|---|---|
+| Geinel Nińo Dungao | Building practical systems across web, cloud, IoT, and creative tech |
+| wolfsenberg | Generalist by design, builder by default, leader through execution |
+| Full-stack Web & IoT Developer | Connecting software, hardware, and cloud into useful products |
 
-&gt; signal
-  generalist by design
-  builder by default
-  leader through execution
-</pre>
-
+</div>
 ###
 
 <h3 align="center">Stacks Used</h3>
