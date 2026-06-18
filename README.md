@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Creatives @ AWSUG e:Novators PH | Compliance Analyst, Cloud Solutions @ GDGPUP
+  <strong>Creatives @ AWSUG e:Novators PH | Compliance Analyst, Cloud Solutions @ GDGPUP</strong>strong>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  building across web, cloud, IoT, and creative systems
+  building across web, cloud, IoT, and creative systems ^^
 </p>
 
 <div align="center">
